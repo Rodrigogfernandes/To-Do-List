@@ -1,6 +1,6 @@
+<div align="center">
 # 📜 Lista de Tarefas (To-Do List)
 
-<div align="center">
 
 ![ToDoList Demo](assets/img/ToDoList.gif)
 
