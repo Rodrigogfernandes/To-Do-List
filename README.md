@@ -1,5 +1,5 @@
 <div align="center">
-# 📜 Lista de Tarefas (To-Do List)
+<h1> 📜 Lista de Tarefas (To-Do List) </h1>
 
 
 ![ToDoList Demo](assets/img/ToDoList.gif)
